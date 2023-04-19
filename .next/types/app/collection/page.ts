@@ -1,4 +1,4 @@
-// File: C:\Users\Aldo\Desktop\Ciscryp_Nextjs\Ciscryp\src\app\collection\page.tsx
+// File: C:\Users\Aldo\Documents\Proyectos\Ciscryp\src\app\collection\page.tsx
 import * as entry from '../../../../src/app/collection/page'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface'
 

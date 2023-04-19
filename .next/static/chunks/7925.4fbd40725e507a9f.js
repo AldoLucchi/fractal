@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7925],{7925:function(_){_.exports={style:{fontFamily:"'__Poppins_96694c', '__Poppins_Fallback_96694c'",fontStyle:"normal"},className:"__className_96694c"}}}]);

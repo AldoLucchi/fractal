@@ -22,10 +22,10 @@ function PageHome() {
       <div className="container relative mt-5 mb-20 sm:mb-24 lg:mt-20 lg:mb-0">
         <SectionHero2 />
 
-        <SectionHowItWork className="mt-24 lg:mt-40 xl:mt-48" />
+        {/* <SectionHowItWork className="mt-24 lg:mt-40 xl:mt-48" /> */}
       </div>
 
-      <SectionVideos />
+      <SectionVideos className="container mt-20" />
 
       <SectionBecomeAnAuthor className="container" />
 

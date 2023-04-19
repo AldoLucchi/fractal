@@ -1,3 +1,24 @@
 {
-  "/(homes)/page": "app/(homes)/page.js"
+  "/(homes)/home-2/page": "app/(homes)/home-2/page.js",
+  "/(homes)/home-3/page": "app/(homes)/home-3/page.js",
+  "/(homes)/page": "app/(homes)/page.js",
+  "/account/page": "app/account/page.js",
+  "/about/page": "app/about/page.js",
+  "/author/following/page": "app/author/following/page.js",
+  "/author/liked/page": "app/author/liked/page.js",
+  "/author/page": "app/author/page.js",
+  "/blog-single/page": "app/blog-single/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/author/followers/page": "app/author/followers/page.js",
+  "/api/hello/route": "app/api/hello/route.js",
+  "/collection/page": "app/collection/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/connect-wallet/page": "app/connect-wallet/page.js",
+  "/login/page": "app/login/page.js",
+  "/author/created/page": "app/author/created/page.js",
+  "/nft-detail/page": "app/nft-detail/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/search/page": "app/search/page.js",
+  "/subscription/page": "app/subscription/page.js",
+  "/upload-item/page": "app/upload-item/page.js"
 }

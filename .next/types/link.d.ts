@@ -27,7 +27,28 @@ declare namespace __next_route_internal_types__ {
   type OptionalCatchAllSlug<S extends string> =
     S extends `${string}${SearchOrHash}` ? never : S
 
-  type StaticRoutes = string
+  type StaticRoutes = 
+    | `/home-2`
+    | `/home-3`
+    | `/`
+    | `/account`
+    | `/about`
+    | `/author/following`
+    | `/author/liked`
+    | `/author`
+    | `/blog-single`
+    | `/blog`
+    | `/author/followers`
+    | `/collection`
+    | `/contact`
+    | `/connect-wallet`
+    | `/login`
+    | `/author/created`
+    | `/nft-detail`
+    | `/signup`
+    | `/search`
+    | `/subscription`
+    | `/upload-item`
   type DynamicRoutes<T extends string = string> = string
 
   type RouteImpl<T> =
